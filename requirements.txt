@@ -1,0 +1,3 @@
+requests>=2.32,<3
+pyarrow>=19,<27
+-r requirements-backtest.txt

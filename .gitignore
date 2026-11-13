@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+/data/*
+!/data/processed/
+/data/processed/*
+!/data/processed/binance_um/
+/data/processed/binance_um/*
+!/data/processed/binance_um/1m/
+logs/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+research/grid_results/
+.pytest_cache/
