@@ -14,3 +14,8 @@ logs/
 .ipynb_checkpoints/
 research/grid_results/
 .pytest_cache/
+# Notebook research local khác; repo chia sẻ một alpha mẫu.
+/research/bt_crypto_example.ipynb
+/research/btc_5m_compression_breakout_baseline.ipynb
+/research/btc_alpha76_liquidity_void_5m.ipynb
+/docs/github.md
